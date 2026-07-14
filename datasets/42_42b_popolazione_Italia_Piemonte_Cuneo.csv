@@ -1,0 +1,4 @@
+﻿FREQ;Frequenza;REF_AREA;Territorio;DATA_TYPE;Indicatore;SEX;Sesso;AGE;Età;MARITAL_STATUS;Stato civile;TIME_PERIOD;Osservazione;OBS_STATUS;Stato_osservazione
+A;Annuale;IT;Italia;JAN;Popolazione al 1º gennaio;9;Totale;TOTAL;Totale;99;Totale;2026;58942828;e;Dato stimato
+A;Annuale;ITC1;Piemonte;JAN;Popolazione al 1º gennaio;9;Totale;TOTAL;Totale;99;Totale;2026;4255006;e;Dato stimato
+A;Annuale;ITC16;Cuneo;JAN;Popolazione al 1º gennaio;9;Totale;TOTAL;Totale;99;Totale;2026;582109;e;Dato stimato

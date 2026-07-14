@@ -1,0 +1,1382 @@
+[
+  {
+    "codice": "0040",
+    "attivita": "Beni intermedi"
+  },
+  {
+    "codice": "0050",
+    "attivita": "Beni strumentali"
+  },
+  {
+    "codice": "0060",
+    "attivita": "Beni di consumo durevoli"
+  },
+  {
+    "codice": "0070",
+    "attivita": "Beni di consumo - non durevoli"
+  },
+  {
+    "codice": "0080",
+    "attivita": "Beni di consumo"
+  },
+  {
+    "codice": "0090",
+    "attivita": "Energia"
+  },
+  {
+    "codice": "0020",
+    "attivita": "TOTALE INDUSTRIA ESCLUSE COSTRUZIONI (b-e)"
+  },
+  {
+    "codice": "B",
+    "attivita": "Estrazione di minerali da cave e miniere"
+  },
+  {
+    "codice": "06",
+    "attivita": "Estrazione di petrolio greggio e di gas naturale"
+  },
+  {
+    "codice": "061",
+    "attivita": "Estrazione di petrolio greggio"
+  },
+  {
+    "codice": "0610",
+    "attivita": "Estrazione di petrolio greggio"
+  },
+  {
+    "codice": "062",
+    "attivita": "Estrazione di gas naturale"
+  },
+  {
+    "codice": "0620",
+    "attivita": "Estrazione di gas naturale"
+  },
+  {
+    "codice": "08",
+    "attivita": "Altre attività di estrazione di minerali da cave e miniere"
+  },
+  {
+    "codice": "081",
+    "attivita": "'Estrazione di pietra"
+  },
+  {
+    "codice": "089",
+    "attivita": "Estrazione di minerali da cave e miniere nca"
+  },
+  {
+    "codice": "C",
+    "attivita": "Attività manifatturiere"
+  },
+  {
+    "codice": "CA",
+    "attivita": "'Industrie alimentari"
+  },
+  {
+    "codice": "10",
+    "attivita": "Industrie alimentari"
+  },
+  {
+    "codice": "101",
+    "attivita": "Lavorazione e conservazione di carne e produzione di prodotti a base di carne"
+  },
+  {
+    "codice": "1011",
+    "attivita": "'Lavorazione e conservazione di carne"
+  },
+  {
+    "codice": "1012",
+    "attivita": "Lavorazione e conservazione di carne di volatili"
+  },
+  {
+    "codice": "1013",
+    "attivita": "'Produzione di prodotti a base di carne"
+  },
+  {
+    "codice": "102",
+    "attivita": "'Lavorazione e conservazione di pesce"
+  },
+  {
+    "codice": "1020",
+    "attivita": "'Lavorazione e conservazione di pesce"
+  },
+  {
+    "codice": "103",
+    "attivita": "Lavorazione e conservazione di frutta e ortaggi"
+  },
+  {
+    "codice": "1032",
+    "attivita": "Produzione di succhi di frutta e di ortaggi"
+  },
+  {
+    "codice": "1039",
+    "attivita": "Altra lavorazione e conservazione di frutta e di ortaggi"
+  },
+  {
+    "codice": "104",
+    "attivita": "Produzione di oli e grassi vegetali e animali"
+  },
+  {
+    "codice": "1041",
+    "attivita": "Produzione di oli e grassi"
+  },
+  {
+    "codice": "1042",
+    "attivita": "Produzione di margarina e di grassi commestibili simili"
+  },
+  {
+    "codice": "105",
+    "attivita": "Industria lattiero-casearia"
+  },
+  {
+    "codice": "1051",
+    "attivita": "'Industria lattiero-casearia"
+  },
+  {
+    "codice": "1052",
+    "attivita": "Produzione di gelati"
+  },
+  {
+    "codice": "106",
+    "attivita": "'Lavorazione delle granaglie"
+  },
+  {
+    "codice": "1061",
+    "attivita": "Lavorazione delle granaglie"
+  },
+  {
+    "codice": "107",
+    "attivita": "Produzione di prodotti da forno e farinacei"
+  },
+  {
+    "codice": "1071",
+    "attivita": "'Produzione di pane"
+  },
+  {
+    "codice": "1072",
+    "attivita": "'Produzione di fette biscottate e di biscotti"
+  },
+  {
+    "codice": "1073",
+    "attivita": "'Produzione di paste alimentari"
+  },
+  {
+    "codice": "108",
+    "attivita": "Produzione di altri prodotti alimentari"
+  },
+  {
+    "codice": "1082",
+    "attivita": "'Produzione di cacao"
+  },
+  {
+    "codice": "1083",
+    "attivita": "Lavorazione del tè e del caffè"
+  },
+  {
+    "codice": "1084",
+    "attivita": "Produzione di condimenti e spezie"
+  },
+  {
+    "codice": "1085",
+    "attivita": "Produzione di pasti e piatti preparati"
+  },
+  {
+    "codice": "1086",
+    "attivita": "Produzione di preparati omogeneizzati e di alimenti dietetici"
+  },
+  {
+    "codice": "1089",
+    "attivita": "Produzione di altri prodotti alimentari nca"
+  },
+  {
+    "codice": "109",
+    "attivita": "'Produzione di prodotti per l\"'alimentazione degli animali'"
+  },
+  {
+    "codice": "1091",
+    "attivita": "'Produzione di mangimi per l\"'alimentazione degli animali da allevamento'"
+  },
+  {
+    "codice": "1092",
+    "attivita": "'Produzione di prodotti per l\"'alimentazione degli animali da compagnia'"
+  },
+  {
+    "codice": "11",
+    "attivita": "Industria delle bevande"
+  },
+  {
+    "codice": "110",
+    "attivita": "Industria delle bevande"
+  },
+  {
+    "codice": "1101",
+    "attivita": "'Distillazione"
+  },
+  {
+    "codice": "1102",
+    "attivita": "Produzione di vini da uve"
+  },
+  {
+    "codice": "1105",
+    "attivita": "Produzione di birra"
+  },
+  {
+    "codice": "1107",
+    "attivita": "'Industria delle bibite analcoliche"
+  },
+  {
+    "codice": "12",
+    "attivita": "Industria del tabacco"
+  },
+  {
+    "codice": "120",
+    "attivita": "Industria del tabacco"
+  },
+  {
+    "codice": "1200",
+    "attivita": "Industria del tabacco"
+  },
+  {
+    "codice": "CB",
+    "attivita": "'Industrie tessili"
+  },
+  {
+    "codice": "13",
+    "attivita": "Industrie tessili"
+  },
+  {
+    "codice": "131",
+    "attivita": "Preparazione e filatura di fibre tessili"
+  },
+  {
+    "codice": "1310",
+    "attivita": "Preparazione e filatura di fibre tessili"
+  },
+  {
+    "codice": "132",
+    "attivita": "Tessitura"
+  },
+  {
+    "codice": "1320",
+    "attivita": "Tessitura"
+  },
+  {
+    "codice": "133",
+    "attivita": "Finissaggio dei tessili"
+  },
+  {
+    "codice": "1330",
+    "attivita": "Finissaggio dei tessili"
+  },
+  {
+    "codice": "139",
+    "attivita": "Altre industrie tessili"
+  },
+  {
+    "codice": "1391",
+    "attivita": "Fabbricazione di tessuti a maglia"
+  },
+  {
+    "codice": "1392",
+    "attivita": "'Confezionamento di articoli tessili"
+  },
+  {
+    "codice": "1393",
+    "attivita": "Fabbricazione di tappeti e moquette"
+  },
+  {
+    "codice": "1394",
+    "attivita": "'Fabbricazione di spago"
+  },
+  {
+    "codice": "1395",
+    "attivita": "'Fabbricazione di tessuti non tessuti e di articoli in tali materie"
+  },
+  {
+    "codice": "1396",
+    "attivita": "Fabbricazione di articoli tessili tecnici ed industriali"
+  },
+  {
+    "codice": "14",
+    "attivita": "'Confezione di articoli di abbigliamento"
+  },
+  {
+    "codice": "141",
+    "attivita": "'Confezione di articoli di abbigliamento"
+  },
+  {
+    "codice": "1413",
+    "attivita": "Confezione di altro abbigliamento esterno"
+  },
+  {
+    "codice": "1414",
+    "attivita": "Confezione di biancheria intima"
+  },
+  {
+    "codice": "1419",
+    "attivita": "Confezione di altri articoli di abbigliamento ed accessori"
+  },
+  {
+    "codice": "142",
+    "attivita": "Confezione di articoli in pelliccia"
+  },
+  {
+    "codice": "1420",
+    "attivita": "Confezione di articoli in pelliccia"
+  },
+  {
+    "codice": "143",
+    "attivita": "Fabbricazione di articoli di maglieria"
+  },
+  {
+    "codice": "1431",
+    "attivita": "Fabbricazione di articoli di calzetteria in maglia"
+  },
+  {
+    "codice": "1439",
+    "attivita": "Fabbricazione di altri articoli di maglieria"
+  },
+  {
+    "codice": "15",
+    "attivita": "Fabbricazione di articoli in pelle e simili"
+  },
+  {
+    "codice": "151",
+    "attivita": "'Preparazione e concia del cuoio"
+  },
+  {
+    "codice": "1511",
+    "attivita": "'Preparazione e concia del cuoio"
+  },
+  {
+    "codice": "1512",
+    "attivita": "'Fabbricazione di articoli da viaggio"
+  },
+  {
+    "codice": "152",
+    "attivita": "Fabbricazione di calzature"
+  },
+  {
+    "codice": "1520",
+    "attivita": "Fabbricazione di calzature"
+  },
+  {
+    "codice": "CC",
+    "attivita": "'Industria dei prodotti in legno e carta"
+  },
+  {
+    "codice": "16",
+    "attivita": "'Industria del legno e dei prodotti in legno e sughero (esclusi i mobili)"
+  },
+  {
+    "codice": "161",
+    "attivita": "Taglio e piallatura del legno"
+  },
+  {
+    "codice": "1610",
+    "attivita": "Taglio e piallatura del legno"
+  },
+  {
+    "codice": "162",
+    "attivita": "'Fabbricazione di prodotti in legno"
+  },
+  {
+    "codice": "1621",
+    "attivita": "Fabbricazione di fogli da impiallacciatura e di pannelli a base di legno"
+  },
+  {
+    "codice": "1622",
+    "attivita": "Fabbricazione di pavimenti in parquet assemblato"
+  },
+  {
+    "codice": "1623",
+    "attivita": "'Fabbricazione di altri prodotti di carpenteria in legno e falegnameria per l\"'edilizia'"
+  },
+  {
+    "codice": "1624",
+    "attivita": "Fabbricazione di imballaggi in legno"
+  },
+  {
+    "codice": "1629",
+    "attivita": "'Fabbricazione di altri prodotti in legno"
+  },
+  {
+    "codice": "17",
+    "attivita": "Fabbricazione di carta e di prodotti di carta"
+  },
+  {
+    "codice": "171",
+    "attivita": "'Fabbricazione di pasta-carta"
+  },
+  {
+    "codice": "1711",
+    "attivita": "Fabbricazione di pasta-carta"
+  },
+  {
+    "codice": "1712",
+    "attivita": "Fabbricazione di carta e cartone"
+  },
+  {
+    "codice": "172",
+    "attivita": "Fabbricazione di articoli di carta e cartone"
+  },
+  {
+    "codice": "1721",
+    "attivita": "Fabbricazione di carta e cartone ondulato e di imballaggi di carta e cartone"
+  },
+  {
+    "codice": "1722",
+    "attivita": "Fabbricazione di prodotti igienico-sanitari e per uso domestico in carta e ovatta di cellulosa"
+  },
+  {
+    "codice": "1723",
+    "attivita": "Fabbricazione di prodotti cartotecnici"
+  },
+  {
+    "codice": "1729",
+    "attivita": "Fabbricazione di altri articoli di carta e cartone"
+  },
+  {
+    "codice": "18",
+    "attivita": "Stampa e riproduzione di supporti registrati"
+  },
+  {
+    "codice": "181",
+    "attivita": "Stampa e servizi connessi alla stampa"
+  },
+  {
+    "codice": "1811",
+    "attivita": "Stampa di giornali"
+  },
+  {
+    "codice": "1812",
+    "attivita": "Altra stampa"
+  },
+  {
+    "codice": "1813",
+    "attivita": "Lavorazioni preliminari alla stampa e ai media"
+  },
+  {
+    "codice": "CD",
+    "attivita": "Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio"
+  },
+  {
+    "codice": "19",
+    "attivita": "Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio"
+  },
+  {
+    "codice": "191",
+    "attivita": "Fabbricazione di prodotti di cokeria"
+  },
+  {
+    "codice": "1910",
+    "attivita": "Fabbricazione di prodotti di cokeria"
+  },
+  {
+    "codice": "192",
+    "attivita": "Fabbricazione di prodotti derivanti dalla raffinazione del petrolio"
+  },
+  {
+    "codice": "1920",
+    "attivita": "Fabbricazione di prodotti derivanti dalla raffinazione del petrolio"
+  },
+  {
+    "codice": "CE",
+    "attivita": "Fabbricazione di prodotti chimici"
+  },
+  {
+    "codice": "20",
+    "attivita": "Fabbricazione di prodotti chimici"
+  },
+  {
+    "codice": "201",
+    "attivita": "'Fabbricazione di prodotti chimici di base"
+  },
+  {
+    "codice": "2011",
+    "attivita": "Fabbricazione di gas industriali"
+  },
+  {
+    "codice": "2012",
+    "attivita": "Fabbricazione di coloranti e pigmenti"
+  },
+  {
+    "codice": "2013",
+    "attivita": "Fabbricazione di altri prodotti chimici di base inorganici"
+  },
+  {
+    "codice": "2014",
+    "attivita": "Fabbricazione di altri prodotti chimici di base organici"
+  },
+  {
+    "codice": "2015",
+    "attivita": "Fabbricazione di fertilizzanti e composti azotati"
+  },
+  {
+    "codice": "2016",
+    "attivita": "Fabbricazione di materie plastiche in forme primarie"
+  },
+  {
+    "codice": "2017",
+    "attivita": "Fabbricazione di gomma sintetica in forme primarie"
+  },
+  {
+    "codice": "202",
+    "attivita": "'Fabbricazione di agrofarmaci e di altri prodotti chimici per l\"'agricoltura'"
+  },
+  {
+    "codice": "2020",
+    "attivita": "'Fabbricazione di agrofarmaci e di altri prodotti chimici per l\"'agricoltura'"
+  },
+  {
+    "codice": "203",
+    "attivita": "'Fabbricazione di pitture"
+  },
+  {
+    "codice": "2030",
+    "attivita": "'Fabbricazione di pitture"
+  },
+  {
+    "codice": "204",
+    "attivita": "'Fabbricazione di saponi e detergenti"
+  },
+  {
+    "codice": "2041",
+    "attivita": "'Fabbricazione di saponi e detergenti"
+  },
+  {
+    "codice": "2042",
+    "attivita": "Fabbricazione di profumi e cosmetici"
+  },
+  {
+    "codice": "205",
+    "attivita": "Fabbricazione di altri prodotti chimici"
+  },
+  {
+    "codice": "2052",
+    "attivita": "Fabbricazione di colle"
+  },
+  {
+    "codice": "2053",
+    "attivita": "Fabbricazione di oli essenziali"
+  },
+  {
+    "codice": "2059",
+    "attivita": "Fabbricazione di altri prodotti chimici nca"
+  },
+  {
+    "codice": "206",
+    "attivita": "Fabbricazione di fibre sintetiche e artificiali"
+  },
+  {
+    "codice": "2060",
+    "attivita": "Fabbricazione di fibre sintetiche e artificiali"
+  },
+  {
+    "codice": "CF",
+    "attivita": "Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici"
+  },
+  {
+    "codice": "21",
+    "attivita": "Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici"
+  },
+  {
+    "codice": "211",
+    "attivita": "Fabbricazione di prodotti farmaceutici di base"
+  },
+  {
+    "codice": "2110",
+    "attivita": "Fabbricazione di prodotti farmaceutici di base"
+  },
+  {
+    "codice": "212",
+    "attivita": "Fabbricazione di medicinali e preparati farmaceutici"
+  },
+  {
+    "codice": "2120",
+    "attivita": "Fabbricazione di medicinali e preparati farmaceutici"
+  },
+  {
+    "codice": "CG",
+    "attivita": "Fabbricazione di articoli in gomma e materie plastiche e di altri prodotti della lavorazione di minerali non metalliferi"
+  },
+  {
+    "codice": "22",
+    "attivita": "Fabbricazione di articoli in gomma e materie plastiche"
+  },
+  {
+    "codice": "221",
+    "attivita": "Fabbricazione di articoli in gomma"
+  },
+  {
+    "codice": "2211",
+    "attivita": "'Fabbricazione di pneumatici e camere d\"'aria"
+  },
+  {
+    "codice": "2219",
+    "attivita": "Fabbricazione di altri prodotti in gomma"
+  },
+  {
+    "codice": "222",
+    "attivita": "Fabbricazione di articoli in materie plastiche"
+  },
+  {
+    "codice": "2221",
+    "attivita": "'Fabbricazione di lastre"
+  },
+  {
+    "codice": "2222",
+    "attivita": "Fabbricazione di imballaggi in materie plastiche"
+  },
+  {
+    "codice": "2223",
+    "attivita": "'Fabbricazione di articoli in plastica per l\"'edilizia'"
+  },
+  {
+    "codice": "2229",
+    "attivita": "Fabbricazione di altri articoli in materie plastiche"
+  },
+  {
+    "codice": "23",
+    "attivita": "Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi"
+  },
+  {
+    "codice": "231",
+    "attivita": "Fabbricazione di vetro e di prodotti in vetro"
+  },
+  {
+    "codice": "2311",
+    "attivita": "Fabbricazione di vetro piano"
+  },
+  {
+    "codice": "2312",
+    "attivita": "Lavorazione e trasformazione del vetro piano"
+  },
+  {
+    "codice": "2313",
+    "attivita": "Fabbricazione di vetro cavo"
+  },
+  {
+    "codice": "2314",
+    "attivita": "Fabbricazione di fibre di vetro"
+  },
+  {
+    "codice": "232",
+    "attivita": "Fabbricazione di prodotti refrattari"
+  },
+  {
+    "codice": "2320",
+    "attivita": "Fabbricazione di prodotti refrattari"
+  },
+  {
+    "codice": "233",
+    "attivita": "Fabbricazione di materiali da costruzione in terracotta"
+  },
+  {
+    "codice": "2331",
+    "attivita": "Fabbricazione di piastrelle in ceramica per pavimenti e rivestimenti"
+  },
+  {
+    "codice": "2332",
+    "attivita": "'Fabbricazione di mattoni"
+  },
+  {
+    "codice": "234",
+    "attivita": "Fabbricazione di altri prodotti in porcellana e in ceramica"
+  },
+  {
+    "codice": "2341",
+    "attivita": "Fabbricazione di prodotti in ceramica per usi domestici e ornamentali"
+  },
+  {
+    "codice": "2342",
+    "attivita": "Fabbricazione di articoli sanitari in ceramica"
+  },
+  {
+    "codice": "235",
+    "attivita": "'Produzione di cemento"
+  },
+  {
+    "codice": "2351",
+    "attivita": "Produzione di cemento"
+  },
+  {
+    "codice": "2352",
+    "attivita": "Produzione di calce e gesso"
+  },
+  {
+    "codice": "236",
+    "attivita": "'Fabbricazione di prodotti in calcestruzzo"
+  },
+  {
+    "codice": "2361",
+    "attivita": "'Fabbricazione di prodotti in calcestruzzo per l\"'edilizia'"
+  },
+  {
+    "codice": "2363",
+    "attivita": "'Produzione di calcestruzzo pronto per l\"'uso'"
+  },
+  {
+    "codice": "2364",
+    "attivita": "Produzione di malta"
+  },
+  {
+    "codice": "2365",
+    "attivita": "Fabbricazione di prodotti in fibrocemento"
+  },
+  {
+    "codice": "2369",
+    "attivita": "'Fabbricazione di altri prodotti in calcestruzzo"
+  },
+  {
+    "codice": "237",
+    "attivita": "'Taglio"
+  },
+  {
+    "codice": "2370",
+    "attivita": "'Taglio"
+  },
+  {
+    "codice": "239",
+    "attivita": "Fabbricazione di prodotti abrasivi e di prodotti in minerali non metalliferi nca"
+  },
+  {
+    "codice": "2391",
+    "attivita": "Produzione di prodotti abrasivi"
+  },
+  {
+    "codice": "CH",
+    "attivita": "Metallurgia  e fabbricazione di prodotti in metallo esclusi macchinari e attrezzature"
+  },
+  {
+    "codice": "24",
+    "attivita": "Metallurgia"
+  },
+  {
+    "codice": "241",
+    "attivita": "Siderurgia"
+  },
+  {
+    "codice": "2410",
+    "attivita": "Siderurgia"
+  },
+  {
+    "codice": "242",
+    "attivita": "'Fabbricazione di tubi"
+  },
+  {
+    "codice": "2420",
+    "attivita": "'Fabbricazione di tubi"
+  },
+  {
+    "codice": "243",
+    "attivita": "'Fabbricazione di altri prodotti della prima trasformazione dell\"'acciaio'"
+  },
+  {
+    "codice": "2433",
+    "attivita": "Profilatura mediante formatura o piegatura a freddo"
+  },
+  {
+    "codice": "2434",
+    "attivita": "Trafilatura a freddo"
+  },
+  {
+    "codice": "244",
+    "attivita": "'Produzione di metalli di base preziosi e altri metalli non ferrosi"
+  },
+  {
+    "codice": "2442",
+    "attivita": "Produzione di alluminio"
+  },
+  {
+    "codice": "2443",
+    "attivita": "'Produzione di piombo"
+  },
+  {
+    "codice": "2444",
+    "attivita": "Produzione di rame"
+  },
+  {
+    "codice": "245",
+    "attivita": "Fonderie"
+  },
+  {
+    "codice": "2451",
+    "attivita": "Fusione di ghisa"
+  },
+  {
+    "codice": "2452",
+    "attivita": "Fusione di acciaio"
+  },
+  {
+    "codice": "2453",
+    "attivita": "Fusione di metalli leggeri"
+  },
+  {
+    "codice": "2454",
+    "attivita": "Fusione di altri metalli non ferrosi"
+  },
+  {
+    "codice": "25",
+    "attivita": "Fabbricazione di prodotti in metallo (esclusi macchinari e attrezzature)"
+  },
+  {
+    "codice": "251",
+    "attivita": "Fabbricazione di elementi da costruzione in metallo"
+  },
+  {
+    "codice": "2511",
+    "attivita": "Fabbricazione di strutture metalliche e di parti di strutture"
+  },
+  {
+    "codice": "2512",
+    "attivita": "Fabbricazione di porte e finestre in metallo"
+  },
+  {
+    "codice": "252",
+    "attivita": "'Fabbricazione di cisterne"
+  },
+  {
+    "codice": "2521",
+    "attivita": "Fabbricazione di radiatori e contenitori in metallo per caldaie per il riscaldamento centrale"
+  },
+  {
+    "codice": "2529",
+    "attivita": "'Fabbricazione di altre cisterne"
+  },
+  {
+    "codice": "253",
+    "attivita": "'Fabbricazione di generatori di vapore"
+  },
+  {
+    "codice": "2530",
+    "attivita": "'Fabbricazione di generatori di vapore"
+  },
+  {
+    "codice": "254",
+    "attivita": "Fabbricazione di armi e munizioni"
+  },
+  {
+    "codice": "2540",
+    "attivita": "Fabbricazione di armi e munizioni"
+  },
+  {
+    "codice": "255",
+    "attivita": "'Fucinatura"
+  },
+  {
+    "codice": "2550",
+    "attivita": "'Fucinatura"
+  },
+  {
+    "codice": "256",
+    "attivita": "'Trattamento e rivestimento dei metalli"
+  },
+  {
+    "codice": "2561",
+    "attivita": "Trattamento e rivestimento dei metalli"
+  },
+  {
+    "codice": "2562",
+    "attivita": "Lavori di meccanica generale"
+  },
+  {
+    "codice": "257",
+    "attivita": "'Fabbricazione di articoli di coltelleria"
+  },
+  {
+    "codice": "2571",
+    "attivita": "Fabbricazione di articoli di coltelleria e posateria"
+  },
+  {
+    "codice": "2572",
+    "attivita": "Fabbricazione di serrature e cerniere"
+  },
+  {
+    "codice": "2573",
+    "attivita": "Fabbricazione di utensileria"
+  },
+  {
+    "codice": "259",
+    "attivita": "Fabbricazione di altri prodotti in metallo"
+  },
+  {
+    "codice": "2591",
+    "attivita": "Fabbricazione di bidoni in acciaio e di contenitori analoghi"
+  },
+  {
+    "codice": "2592",
+    "attivita": "Fabbricazione di imballaggi leggeri in metallo"
+  },
+  {
+    "codice": "2593",
+    "attivita": "'Fabbricazione di prodotti fabbricati con fili metallici"
+  },
+  {
+    "codice": "2594",
+    "attivita": "Fabbricazione di articoli di bulloneria"
+  },
+  {
+    "codice": "2599",
+    "attivita": "Fabbricazione di altri prodotti in metallo nca"
+  },
+  {
+    "codice": "CI",
+    "attivita": "'Fabbricazione di computer e prodotti di elettronica  e ottica"
+  },
+  {
+    "codice": "26",
+    "attivita": "'Fabbricazione di computer e prodotti di elettronica e ottica"
+  },
+  {
+    "codice": "261",
+    "attivita": "Fabbricazione di componenti elettronici e schede elettroniche"
+  },
+  {
+    "codice": "2611",
+    "attivita": "Fabbricazione di componenti elettronici"
+  },
+  {
+    "codice": "262",
+    "attivita": "Fabbricazione di computer e unità periferiche"
+  },
+  {
+    "codice": "2620",
+    "attivita": "Fabbricazione di computer e unità periferiche"
+  },
+  {
+    "codice": "263",
+    "attivita": "Fabbricazione di apparecchiature per le telecomunicazioni"
+  },
+  {
+    "codice": "2630",
+    "attivita": "Fabbricazione di apparecchiature per le telecomunicazioni"
+  },
+  {
+    "codice": "264",
+    "attivita": "Fabbricazione di prodotti di elettronica di consumo audio e video"
+  },
+  {
+    "codice": "2640",
+    "attivita": "Fabbricazione di prodotti di elettronica di consumo audio e video"
+  },
+  {
+    "codice": "265",
+    "attivita": "'Fabbricazione di strumenti e apparecchi di misurazione"
+  },
+  {
+    "codice": "2651",
+    "attivita": "'Fabbricazione di strumenti e apparecchi di misurazione"
+  },
+  {
+    "codice": "266",
+    "attivita": "'Fabbricazione di strumenti per irradiazione"
+  },
+  {
+    "codice": "2660",
+    "attivita": "'Fabbricazione di strumenti per irradiazione"
+  },
+  {
+    "codice": "267",
+    "attivita": "Fabbricazione di strumenti ottici e attrezzature fotografiche"
+  },
+  {
+    "codice": "2670",
+    "attivita": "Fabbricazione di strumenti ottici e attrezzature fotografiche"
+  },
+  {
+    "codice": "CJ",
+    "attivita": "Fabbricazione di apparecchiature elettriche ed apparecchiature per uso domestico non elettriche"
+  },
+  {
+    "codice": "27",
+    "attivita": "Fabbricazione di apparecchiature elettriche ed apparecchiature per uso domestico non elettriche"
+  },
+  {
+    "codice": "271",
+    "attivita": "'Fabbricazione di motori"
+  },
+  {
+    "codice": "2711",
+    "attivita": "'Fabbricazione di motori"
+  },
+  {
+    "codice": "2712",
+    "attivita": "'Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell\"'elettricità'"
+  },
+  {
+    "codice": "272",
+    "attivita": "Fabbricazione di batterie di pile ed accumulatori elettrici"
+  },
+  {
+    "codice": "2720",
+    "attivita": "Fabbricazione di batterie di pile ed accumulatori elettrici"
+  },
+  {
+    "codice": "273",
+    "attivita": "Fabbricazione di cablaggi e apparecchiature di cablaggio"
+  },
+  {
+    "codice": "2731",
+    "attivita": "Fabbricazione di cavi a fibra ottica"
+  },
+  {
+    "codice": "2732",
+    "attivita": "Fabbricazione di altri fili e cavi elettrici ed elettronici"
+  },
+  {
+    "codice": "274",
+    "attivita": "Fabbricazione di apparecchiature per illuminazione"
+  },
+  {
+    "codice": "2740",
+    "attivita": "Fabbricazione di apparecchiature per illuminazione"
+  },
+  {
+    "codice": "275",
+    "attivita": "Fabbricazione di apparecchi per uso domestico"
+  },
+  {
+    "codice": "2751",
+    "attivita": "Fabbricazione di elettrodomestici"
+  },
+  {
+    "codice": "2752",
+    "attivita": "Fabbricazione di apparecchi per uso domestico non elettrici"
+  },
+  {
+    "codice": "279",
+    "attivita": "Fabbricazione di altre apparecchiature elettriche"
+  },
+  {
+    "codice": "2790",
+    "attivita": "Fabbricazione di altre apparecchiature elettriche"
+  },
+  {
+    "codice": "CK",
+    "attivita": "Fabbricazione di macchinari ed apparecchiature nca"
+  },
+  {
+    "codice": "28",
+    "attivita": "Fabbricazione di macchinari ed apparecchiature nca"
+  },
+  {
+    "codice": "281",
+    "attivita": "Fabbricazione di macchine di impiego generale"
+  },
+  {
+    "codice": "2811",
+    "attivita": "'Fabbricazione di motori e turbine (esclusi i motori per aeromobili"
+  },
+  {
+    "codice": "2812",
+    "attivita": "Fabbricazione di apparecchiature fluidodinamiche"
+  },
+  {
+    "codice": "2813",
+    "attivita": "Fabbricazione di altre pompe e compressori"
+  },
+  {
+    "codice": "2814",
+    "attivita": "Fabbricazione di altri rubinetti e valvole"
+  },
+  {
+    "codice": "2815",
+    "attivita": "'Fabbricazione di cuscinetti"
+  },
+  {
+    "codice": "282",
+    "attivita": "Fabbricazione di altre macchine di impiego generale"
+  },
+  {
+    "codice": "2821",
+    "attivita": "'Fabbricazione di forni"
+  },
+  {
+    "codice": "2822",
+    "attivita": "Fabbricazione di macchine e apparecchi di sollevamento e movimentazione"
+  },
+  {
+    "codice": "2824",
+    "attivita": "Fabbricazione di utensili portatili a motore"
+  },
+  {
+    "codice": "2825",
+    "attivita": "Fabbricazione di attrezzature di uso non domestico per la refrigerazione e la ventilazione"
+  },
+  {
+    "codice": "2829",
+    "attivita": "Fabbricazione di altre macchine di impiego generale nca"
+  },
+  {
+    "codice": "283",
+    "attivita": "'Fabbricazione di macchine per l\"'agricoltura e la silvicoltura'"
+  },
+  {
+    "codice": "2830",
+    "attivita": "'Fabbricazione di macchine per l\"'agricoltura e la silvicoltura'"
+  },
+  {
+    "codice": "284",
+    "attivita": "Fabbricazione di macchine per la formatura dei metalli e di altre macchine utensili"
+  },
+  {
+    "codice": "2841",
+    "attivita": "Fabbricazione di macchine utensili per la formatura dei metalli"
+  },
+  {
+    "codice": "2849",
+    "attivita": "Fabbricazione di altre macchine utensili"
+  },
+  {
+    "codice": "289",
+    "attivita": "Fabbricazione di altre macchine per impieghi speciali"
+  },
+  {
+    "codice": "2891",
+    "attivita": "Fabbricazione di macchine per la metallurgia"
+  },
+  {
+    "codice": "2892",
+    "attivita": "'Fabbricazione di macchine da miniera"
+  },
+  {
+    "codice": "2893",
+    "attivita": "'Fabbricazione di macchine per l\"'industria alimentare"
+  },
+  {
+    "codice": "2894",
+    "attivita": "'Fabbricazione di macchine per le industrie tessili"
+  },
+  {
+    "codice": "2895",
+    "attivita": "'Fabbricazione di macchine per l\"'industria della carta e del cartone (incluse parti e accessori)'"
+  },
+  {
+    "codice": "2896",
+    "attivita": "'Fabbricazione di macchine per l\"'industria delle materie plastiche e della gomma (incluse parti e accessori)'"
+  },
+  {
+    "codice": "2899",
+    "attivita": "Fabbricazione di altre macchine per impieghi speciali nca (incluse parti e accessori)"
+  },
+  {
+    "codice": "CL",
+    "attivita": "Fabbricazione di mezzi di trasporto"
+  },
+  {
+    "codice": "29",
+    "attivita": "'Fabbricazione di autoveicoli"
+  },
+  {
+    "codice": "291",
+    "attivita": "Fabbricazione di autoveicoli"
+  },
+  {
+    "codice": "2910",
+    "attivita": "Fabbricazione di autoveicoli"
+  },
+  {
+    "codice": "292",
+    "attivita": "'Fabbricazione di carrozzerie per autoveicoli"
+  },
+  {
+    "codice": "2920",
+    "attivita": "'Fabbricazione di carrozzerie per autoveicoli"
+  },
+  {
+    "codice": "293",
+    "attivita": "Fabbricazione di parti ed accessori per autoveicoli e loro motori"
+  },
+  {
+    "codice": "2931",
+    "attivita": "Fabbricazione di apparecchiature elettriche ed elettroniche per autoveicoli e loro motori"
+  },
+  {
+    "codice": "2932",
+    "attivita": "Fabbricazione di altre parti ed accessori per autoveicoli e loro motori"
+  },
+  {
+    "codice": "30",
+    "attivita": "Fabbricazione di altri mezzi di trasporto"
+  },
+  {
+    "codice": "301",
+    "attivita": "Costruzione di navi e imbarcazioni"
+  },
+  {
+    "codice": "3011",
+    "attivita": "Costruzione di navi e di strutture galleggianti"
+  },
+  {
+    "codice": "3012",
+    "attivita": "Costruzione di imbarcazioni da diporto e sportive"
+  },
+  {
+    "codice": "302",
+    "attivita": "Costruzione di locomotive e di materiale rotabile ferro-tranviario"
+  },
+  {
+    "codice": "3020",
+    "attivita": "Costruzione di locomotive e di materiale rotabile ferro-tranviario"
+  },
+  {
+    "codice": "303",
+    "attivita": "'Fabbricazione di aeromobili"
+  },
+  {
+    "codice": "3030",
+    "attivita": "'Fabbricazione di aeromobili"
+  },
+  {
+    "codice": "309",
+    "attivita": "Fabbricazione di mezzi di trasporto nca"
+  },
+  {
+    "codice": "3091",
+    "attivita": "Fabbricazione di motocicli (inclusi i motori)"
+  },
+  {
+    "codice": "3092",
+    "attivita": "Fabbricazione di biciclette e veicoli per invalidi"
+  },
+  {
+    "codice": "CM",
+    "attivita": "'Altre industrie manifatturiere"
+  },
+  {
+    "codice": "31",
+    "attivita": "Fabbricazione di mobili"
+  },
+  {
+    "codice": "310",
+    "attivita": "Fabbricazione di mobili"
+  },
+  {
+    "codice": "3101",
+    "attivita": "Fabbricazione di mobili per ufficio e negozi"
+  },
+  {
+    "codice": "3102",
+    "attivita": "Fabbricazione di mobili per cucina"
+  },
+  {
+    "codice": "3103",
+    "attivita": "Fabbricazione di materassi"
+  },
+  {
+    "codice": "3109",
+    "attivita": "Fabbricazione di altri mobili"
+  },
+  {
+    "codice": "32",
+    "attivita": "Altre industrie manifatturiere"
+  },
+  {
+    "codice": "321",
+    "attivita": "'Fabbricazione di gioielleria"
+  },
+  {
+    "codice": "322",
+    "attivita": "Fabbricazione di strumenti musicali"
+  },
+  {
+    "codice": "3220",
+    "attivita": "Fabbricazione di strumenti musicali"
+  },
+  {
+    "codice": "323",
+    "attivita": "Fabbricazione di articoli sportivi"
+  },
+  {
+    "codice": "3230",
+    "attivita": "Fabbricazione di articoli sportivi"
+  },
+  {
+    "codice": "324",
+    "attivita": "Fabbricazione di giochi e giocattoli"
+  },
+  {
+    "codice": "3240",
+    "attivita": "Fabbricazione di giochi e giocattoli"
+  },
+  {
+    "codice": "325",
+    "attivita": "Fabbricazione di strumenti e forniture mediche e dentistiche"
+  },
+  {
+    "codice": "3250",
+    "attivita": "Fabbricazione di strumenti e forniture mediche e dentistiche"
+  },
+  {
+    "codice": "329",
+    "attivita": "Industrie manifatturiere nca"
+  },
+  {
+    "codice": "3291",
+    "attivita": "Fabbricazione di scope e spazzole"
+  },
+  {
+    "codice": "3299",
+    "attivita": "Altre industrie manifatturiere nca"
+  },
+  {
+    "codice": "33",
+    "attivita": "'Riparazione"
+  },
+  {
+    "codice": "331",
+    "attivita": "'Riparazione e manutenzione di prodotti in metallo"
+  },
+  {
+    "codice": "3311",
+    "attivita": "Riparazione e manutenzione di prodotti in metallo"
+  },
+  {
+    "codice": "3312",
+    "attivita": "Riparazione e manutenzione di macchinari"
+  },
+  {
+    "codice": "3313",
+    "attivita": "Riparazione e manutenzione di apparecchiature elettroniche ed ottiche"
+  },
+  {
+    "codice": "3314",
+    "attivita": "Riparazione e manutenzione di apparecchiature elettriche"
+  },
+  {
+    "codice": "3315",
+    "attivita": "Riparazione e manutenzione di navi e imbarcazioni (esclusi i loro motori)"
+  },
+  {
+    "codice": "332",
+    "attivita": "Installazione di macchine ed apparecchiature industriali"
+  },
+  {
+    "codice": "3320",
+    "attivita": "Installazione di macchine ed apparecchiature industriali"
+  },
+  {
+    "codice": "D",
+    "attivita": "'Fornitura di energia elettrica"
+  },
+  {
+    "codice": "35",
+    "attivita": "'Fornitura di energia elettrica"
+  },
+  {
+    "codice": "351",
+    "attivita": "'Produzione"
+  },
+  {
+    "codice": "3511",
+    "attivita": "Produzione di energia elettrica"
+  },
+  {
+    "codice": "352",
+    "attivita": "'Produzione di gas"
+  },
+  {
+    "codice": "3522",
+    "attivita": "Distribuzione di combustibili gassosi mediante condotte"
+  }
+]
