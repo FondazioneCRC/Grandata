@@ -33966,5 +33966,141 @@
     {
       "codice": "030108",
       "nome": "Savogna"
+    },
+    {
+      "codice": "004216",
+      "nome": "Scagnello"
+    },
+    {
+      "codice": "004217",
+      "nome": "Scarnafigi"
+    },
+    {
+      "codice": "004218",
+      "nome": "Serralunga d'Alba"
+    },
+    {
+      "codice": "004219",
+      "nome": "Serravalle Langhe"
+    },
+    {
+      "codice": "004220",
+      "nome": "Sinio"
+    },
+    {
+      "codice": "004221",
+      "nome": "Somano"
+    },
+    {
+      "codice": "004222",
+      "nome": "Sommariva del Bosco"
+    },
+    {
+      "codice": "004223",
+      "nome": "Sommariva Perno"
+    },
+    {
+      "codice": "004224",
+      "nome": "Stroppo"
+    },
+    {
+      "codice": "004225",
+      "nome": "Tarantasca"
+    },
+    {
+      "codice": "004226",
+      "nome": "Torre Bormida"
+    },
+    {
+      "codice": "004227",
+      "nome": "Torre Mondovì"
+    },
+    {
+      "codice": "004228",
+      "nome": "Torre San Giorgio"
+    },
+    {
+      "codice": "004229",
+      "nome": "Torresina"
+    },
+    {
+      "codice": "004230",
+      "nome": "Treiso"
+    },
+    {
+      "codice": "004231",
+      "nome": "Trezzo Tinella"
+    },
+    {
+      "codice": "004232",
+      "nome": "Trinità"
+    },
+    {
+      "codice": "004233",
+      "nome": "Valdieri"
+    },
+    {
+      "codice": "004234",
+      "nome": "Valgrana"
+    },
+    {
+      "codice": "004235",
+      "nome": "Valloriate"
+    },
+    {
+      "codice": "004237",
+      "nome": "Venasca"
+    },
+    {
+      "codice": "004238",
+      "nome": "Verduno"
+    },
+    {
+      "codice": "004239",
+      "nome": "Vernante"
+    },
+    {
+      "codice": "004240",
+      "nome": "Verzuolo"
+    },
+    {
+      "codice": "004241",
+      "nome": "Vezza d'Alba"
+    },
+    {
+      "codice": "004242",
+      "nome": "Vicoforte"
+    },
+    {
+      "codice": "004243",
+      "nome": "Vignolo"
+    },
+    {
+      "codice": "004244",
+      "nome": "Villafalletto"
+    },
+    {
+      "codice": "004245",
+      "nome": "Villanova Mondovì"
+    },
+    {
+      "codice": "004246",
+      "nome": "Villanova Solaro"
+    },
+    {
+      "codice": "004247",
+      "nome": "Villar San Costanzo"
+    },
+    {
+      "codice": "004248",
+      "nome": "Vinadio"
+    },
+    {
+      "codice": "004249",
+      "nome": "Viola"
+    },
+    {
+      "codice": "004250",
+      "nome": "Vottignasco"
     }
 ]
